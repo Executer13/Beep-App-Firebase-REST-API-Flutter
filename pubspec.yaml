@@ -1,0 +1,58 @@
+name: yasan_s_application1
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  get: ^4.6.5
+  connectivity_plus: ^2.3.6
+  shared_preferences: ^2.0.15
+  cached_network_image: ^3.2.1
+  flutter_svg: ^0.22.0
+  pin_code_fields: ^7.3.0
+  sms_autofill: ^2.0.0
+  intl: ^0.17.0
+  firebase_core: ^2.1.1
+  firebase_auth: ^4.1.0
+  firebase_messaging: ^14.0.3
+  giffy_dialog: ^1.8.0
+  cloud_firestore: ^4.0.3
+  quiver: ^3.1.0
+  location: ^4.4.0
+  syncfusion_flutter_maps: ^20.3.52
+  bubble_bottom_bar: ^2.0.0
+  flutter_tap_payment: ^0.0.4
+  go_sell_sdk_flutter: ^2.1.6
+  lottie: ^1.4.3
+  gif_ani: ^0.0.2
+  flutter_gif: ^0.0.4
+  flutter_gifimage: ^1.0.1
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+    - assets/gif/    
+  fonts: 
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400
+        - asset: assets/fonts/PoppinsBold.ttf
+          weight: 700
+        - asset: assets/fonts/PoppinsLight.ttf
+          weight: 300
+    - family: Noto Kufi Arabic
+      fonts: 
+        - asset: assets/fonts/NotoKufiArabicBold.ttf
+          weight: 700

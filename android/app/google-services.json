@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185134423967",
+    "project_id": "testassignment-b46c8",
+    "storage_bucket": "testassignment-b46c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185134423967:android:eb04fa2140db8ec67067aa",
+        "android_client_info": {
+          "package_name": "com.yasansapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185134423967-1abkvbadhpv1905ahos8v2lrcmkrs3kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XFQhQsAS59worql1Ec8nWBCPYxCxMBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185134423967-1abkvbadhpv1905ahos8v2lrcmkrs3kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
