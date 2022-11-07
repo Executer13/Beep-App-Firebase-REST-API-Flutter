@@ -1,13 +1,15 @@
 
-# yasan_s_application1
+# Beep-App-Firebase-REST-API-Flutter
+
+
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
   <strong>
-    Generated with ❤️ from DhiWise
+    Generated with Flutter Using Firebase Along with REST API and Test Payments.
   </strong>
   <p>
-    This is the documentation of Flutter Applications.
+    This is the documentation of Beep Application.
     It contains all the information you need to get started with
     and make changes to your App
   </p>
@@ -91,4 +93,4 @@ Resolve the errors and warnings that are shown in the application.
     
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: yasanmalikofficial@gmail.com
