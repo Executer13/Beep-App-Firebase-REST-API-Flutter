@@ -93,4 +93,4 @@ Resolve the errors and warnings that are shown in the application.
     
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: yasanmalikofficial@gmail.com
+If you have problems or questions go to our Official Email, we will then try to help you as quickly as possible: yasanmalikofficial@gmail.com
